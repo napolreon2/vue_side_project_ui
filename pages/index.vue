@@ -17,7 +17,7 @@
               target="_blank"
               rel="noopener noreferrer"
             >
-              documentation
+              여기다 내용을 넣어볼까
             </a>.
           </p>
           <p>
