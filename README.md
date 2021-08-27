@@ -3,6 +3,21 @@
 ## Build Setup
 
 ```bash
+# create project
+$ npm create nuxt-app projectName
+
+  본 프로젝트 생성시 선택한 option
+  -> language : javascript
+  -> packageManager : npm
+  -> UI Framework: vuetify.js
+  -> Nuxt.js modules: Axios - Promise based HTTP client
+  -> Linting tools : Prettier
+  -> Testing framework: None
+  -> Rendering mode: Universal SSR
+  -> Deployment tools: None
+  -> Continuos integration: None
+  -> version controll : Git
+
 # install dependencies
 $ npm install
 
