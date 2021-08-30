@@ -17,7 +17,7 @@
               target="_blank"
               rel="noopener noreferrer"
             >
-              여기다 내용을 넣어볼까
+              뷰티파이
             </a>.
           </p>
           <p>
@@ -27,7 +27,7 @@
               rel="noopener noreferrer"
               title="chat"
             >
-              discord
+              뷰티파이 discord
             </a>.
           </p>
           <p>
@@ -37,7 +37,7 @@
               rel="noopener noreferrer"
               title="contribute"
             >
-              issue board
+              뷰티파이 issue board
             </a>.
           </p>
           <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>

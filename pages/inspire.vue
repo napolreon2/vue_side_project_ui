@@ -7,10 +7,10 @@
         class="mb-5"
       >
       <blockquote class="blockquote">
-        &#8220;First, solve the problem. Then, write the code.&#8221;
+        &#8220;배고플땐 밥을 먹어라&#8221;
         <footer>
           <small>
-            <em>&mdash;John Johnson</em>
+            <em>&mdash;한 영두</em>
           </small>
         </footer>
       </blockquote>

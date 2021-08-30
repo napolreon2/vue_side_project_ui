@@ -59,7 +59,7 @@
     </v-app-bar>
     <v-main>
       <v-container>
-        <Nuxt />
+        <Nuxt /><!-- 이부분이 페이지의 내용이 삽입될 곳 -->
       </v-container>
     </v-main>
     <v-navigation-drawer
@@ -105,6 +105,11 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Inspire',
           to: '/inspire'
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'young',
+          to: '/young/young'
         }
       ],
       miniVariant: false,
