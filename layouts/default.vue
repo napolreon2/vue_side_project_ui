@@ -108,6 +108,11 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
+          title: 'Empire',
+          to: '/empire'
+        },
+        {
+          icon: 'mdi-chart-bubble',
           title: 'young',
           to: '/young/young'
         }

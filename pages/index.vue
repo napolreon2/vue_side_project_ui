@@ -68,7 +68,15 @@
             nuxt
             to="/inspire"
           >
-            Continue
+            Option 1
+          </v-btn>
+          <v-spacer />
+          <v-btn
+            color="primary"
+            nuxt
+            to="/empire"
+          >
+            Option 2
           </v-btn>
         </v-card-actions>
       </v-card>
