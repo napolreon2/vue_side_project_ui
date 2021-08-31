@@ -115,7 +115,12 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'young',
           to: '/young/young'
-        }
+        },
+        {
+          icon: 'mdi-chart-bubble',
+          title: 'Moondo',
+          to: '/young/moondo'
+        },
       ],
       miniVariant: false,
       right: true,
