@@ -77,9 +77,19 @@
             to="/empire"
           >
             Option 2
-          </v-btn>
+          </v-btn>          
         </v-card-actions>
       </v-card>
     </v-col>
   </v-row>
 </template>
+
+<script>
+  export default {
+    data(){
+      return {
+        text : ''
+      }
+    },
+  }
+</script>

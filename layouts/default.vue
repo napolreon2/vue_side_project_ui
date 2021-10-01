@@ -121,6 +121,11 @@ export default {
           title: 'Moondo',
           to: '/young/moondo'
         },
+        {
+          icon: 'mdi-chart-bubble',
+          title: '서버요청 테스트',
+          to: '/serverReqTest'
+        },
       ],
       miniVariant: false,
       right: true,
